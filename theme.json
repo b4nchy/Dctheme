@@ -1,7 +1,10 @@
 {
   "name": "Mommy",
   "description": "Mommy ngh",
-  "authors": "Banchy daddy" [
+  "authors": [
+    {
+      "name": "Banchy daddy"
+    },
     {
       "name": "wiwiichan",
       "id": "725075745671479296"
