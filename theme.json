@@ -1,7 +1,7 @@
 {
-  "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme",
-  "authors": [
+  "name": "Mommy",
+  "description": "Mommy ngh",
+  "authors": Banchy daddy [
     {
       "name": "wiwiichan",
       "id": "725075745671479296"
@@ -235,9 +235,9 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "http://wallpapercave.com/wp/wp5797343.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "url": "https://w0.peakpx.com/wallpaper/956/477/HD-wallpaper-mikasa-android-anime-anime-aot-attack-on-titan-iphone-mikasa-war.jpg",
+    "blur": 0,
+    "alpha": 0.8,
     "size": "cover",
     "position": "center"
   },
